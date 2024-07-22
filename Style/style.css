@@ -1,0 +1,12 @@
+  .Header-style1{
+    border: none;
+    display: flex;
+    background: #FFA500;
+    flex-direction: row;
+    padding: 10px 10px 0px 70px;
+}
+
+
+.Body-style{
+    margin: 0rem;
+}
